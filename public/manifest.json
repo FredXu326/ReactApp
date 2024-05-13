@@ -1,0 +1,9 @@
+{
+  "name": "RiVision",
+  "short_name": "RiVision",
+  "description": "A revolutionary vision app built with React",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#000000"
+}
